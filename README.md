@@ -1,4 +1,11 @@
 # Offensive .NET
+
+# Update:
+This has been burned and Defender flags it. 
+However, with a little clever tweeking and editing
+you can most likely get it to work.
+# It's just a POC
+
 A collection of .NET scripts, applications for the purpose of learning offensive .NET for security professionals
 
 ## Disclaimer
